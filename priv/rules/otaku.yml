@@ -35,7 +35,7 @@
     text_ru: Увлечение эротическим контентом начинает сказываться на вашей реальной жизни.
     title_en: NEET
     text_en: The fascination with erotic content is beginning to affect your real life.
-    image: /assets/achievements/anime/otaku_3.jpg
+    image: https://sun9-25.userapi.com/impg/YswkaneqlGqSdxWMQLjhx1w2ShmhPT9RVlKSQA/UNIelJe_8QI.jpg?size=474x411&quality=96&sign=80ec13e459e1a1545e64c8bc60a783b7&type=album
     border_color: "#2f4f4f"
 
 - <<: *defaults
